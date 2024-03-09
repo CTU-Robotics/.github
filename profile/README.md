@@ -7,7 +7,7 @@ We are a group of highly motivated engineering students from the Czech Technical
 - Design and build a rover for the [European Rover Challenge (ERC)](https://roverchallenge.eu/competitor-zone/?gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdoO2C_2pj06AMVQpyveaTIL6tsv4tTwNlUBgHuopx4FWQUm3W8wQBBoCKTMQAvD_BwE)
 - Collaborate on cutting-edge robotics projects
 - Provide a platform for students to apply theoretical knowledge in practice
-- 
+  
 ## 🛠️ Technologies We Use
 - Arduino
 - Raspberry Pi
