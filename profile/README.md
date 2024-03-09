@@ -12,7 +12,7 @@ We are a group of highly motivated engineering students from the Czech Technical
 - Arduino
 - Raspberry Pi
 - ROS2 (Robot Operating System)
-- CAD (Computer-Aided Design) software
+- Inventor
 - Python
 - C/C++
 - Matlab
