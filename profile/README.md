@@ -1,4 +1,4 @@
-# Welcome to CTU Rover Team! 🚀
+# Welcome to CTU Robotics - SPACE Rover Team! 🚀
 
 ## About Us
 We are a group of highly motivated engineering students from the Czech Technical University (CTU) dedicated to representing our university in prestigious international rover competitions. Our mission is to create a space for the self-realization of young talented students with a passion for robotics and mechatronics. We aim to bridge the gap between theoretical knowledge and practical application by providing hands-on experience in building innovative rover solutions.
