@@ -12,7 +12,7 @@ We are a group of highly motivated engineering students from the Czech Technical
 - Arduino
 - Raspberry Pi
 - ROS2 (Robot Operating System)
-- Inventor
+- Autodesk Inventor
 - Python
 - C/C++
 - Matlab
@@ -22,12 +22,12 @@ We are a group of highly motivated engineering students from the Czech Technical
 We welcome contributions from fellow students and enthusiasts! Check out our repositories and feel free to submit pull requests, open issues, or share your ideas with us.
 
 ## 🤝 Join Us
-Are you a CTU student passionate about robotics and looking to get hands-on experience? 
+Are you a university student passionate about robotics and looking to get hands-on experience? 
 [Join](https://docs.google.com/forms/d/e/1FAIpQLSdDfbLtrZZvm7TWWIdU0UNftfVXoz_zWv8bz0zKtLsVB1tFbg/viewform) our team! 
 Reach out to us through our website or social media channels to learn more about how you can get involved.
 
 ## 📬 Contact
-Have questions or want to learn more about our projects? Feel free to contact us via email at ctu-robotics@gmail.com or through our social media channels.
+Have questions or want to learn more about our projects? Feel free to contact us via email at cturobotics@gmail.com or through our social media channels.
 
 ## 🌟 Support Us
-Support the CTU Rover Team by sponsoring our organization. Your contributions help us continue our mission of fostering innovation and providing valuable learning opportunities for students.
+Support the CTU Robotics Team by making partnership with our organization. Your contributions help us continue our mission of fostering innovation and providing valuable learning opportunities for students.
