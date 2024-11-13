@@ -9,6 +9,7 @@ We are a group of highly motivated engineering students from the Czech Technical
 - Provide a platform for students to apply theoretical knowledge in practice
   
 ## 🛠️ Technologies We Use
+- STM32
 - Arduino
 - Raspberry Pi
 - ROS2 (Robot Operating System)
